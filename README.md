@@ -2,6 +2,8 @@
 I'm toma09to!!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toma09to&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toma09to&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toma09to&theme=tokyonight)
 
 <!--
 **toma09to/toma09to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
