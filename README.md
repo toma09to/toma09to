@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm toma09to!!  
 I'm interested in Low-level programming.  
-I want to be 完全理解マン.
+I want to be a full-stack engineer.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toma09to&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toma09to&theme=tokyonight)
